@@ -27,10 +27,10 @@
     "angular",
     "angular4"
   ],
-  "main": "dist/ngx-inline-editor.umd.js",
-  "module": "dist/ngx-inline-editor.es5.js",
-  "es2015": "dist/ngx-inline-editor.es2015.js",
-  "typings": "dist/ngx-inline-editor.d.ts",
+  "main": "ngx-inline-editor.umd.js",
+  "module": "ngx-inline-editor.es5.js",
+  "es2015": "ngx-inline-editor.es2015.js",
+  "typings": "ngx-inline-editor.d.ts",
   "scripts": {
     "gulp": "node_modules/.bin/gulp",
     "build": "node_modules/.bin/gulp build && echo 'To publish a new version of library, please use npm run publish'",
